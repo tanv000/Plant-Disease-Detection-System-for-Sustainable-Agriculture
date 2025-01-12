@@ -83,6 +83,3 @@ Contributions are welcome! Follow these steps to contribute:
 - Streamlit for simplifying web app development.
 - The creators of the dataset used for model training.
 
----
-
-For questions or feedback, please contact the project team or open an issue on the repository.
